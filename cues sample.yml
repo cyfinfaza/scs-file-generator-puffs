@@ -1,0 +1,12 @@
+- scene: the first one
+  lightcue: 53
+  actors:
+  - cedric
+  - leanne
+
+- scene: the second one
+  actors:
+  - cedric
+  - leanne
+  - wayne
+
