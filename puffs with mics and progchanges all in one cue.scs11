@@ -1,0 +1,6809 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Production>
+   <Head>
+      <Title>PUFFS</Title>
+      <ProdId>1FAB3E9F</ProdId>
+      <Version>11.8.4.1</Version>
+      <Build>20210401</Build>
+      <PRLogicalDev0>Front</PRLogicalDev0>
+      <PRNumChans0>2</PRNumChans0>
+      <PRAutoIncludeDev0>1</PRAutoIncludeDev0>
+      <DfltDBLevel0>-3.0</DfltDBLevel0>
+      <PreviewDevice>Front</PreviewDevice>
+      <PRVidAudLogicalDev0>Default</PRVidAudLogicalDev0>
+      <PRAutoIncludeVidAud0>1</PRAutoIncludeVidAud0>
+      <DfltVidAudDBLevel0>-3.0</DfltVidAudDBLevel0>
+      <PRCtrlSendLogicalDev0>Network</PRCtrlSendLogicalDev0>
+      <PRCtrlSendDevType0>TelnetOut</PRCtrlSendDevType0>
+      <PRCtrlSendLogicalDev1>MIDI</PRCtrlSendLogicalDev1>
+      <PRCtrlSendDevType1>MIDIOut</PRCtrlSendDevType1>
+      <PRCSDevice>
+         <PRCSLogicalDev>Network</PRCSLogicalDev>
+         <PRCSDevType>NetworkOut</PRCSDevType>
+         <PRCSNetworkProtocol>UDP</PRCSNetworkProtocol>
+         <PRCSNetworkRole>Client</PRCSNetworkRole>
+         <PRCSNetworkReplyMsgAddCR>1</PRCSNetworkReplyMsgAddCR>
+         <PRCSNetworkReplyMsgAddLF>0</PRCSNetworkReplyMsgAddLF>
+      </PRCSDevice>
+      <PRCSDevice>
+         <PRCSLogicalDev>MIDI</PRCSLogicalDev>
+         <PRCSDevType>MIDIOut</PRCSDevType>
+      </PRCSDevice>
+      <FocusPoint>NextManual</FocusPoint>
+   </Head>
+   
+    <Cue>
+       <CueId>Q1</CueId>
+      <Description>1.1 Prologue</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>2</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q2</CueId>
+      <Description>1.2 Welcome to the Puffs</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>3</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q3</CueId>
+      <Description>1.3 Studies</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>4</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q4</CueId>
+      <Description>1.4 The Feast!</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>5</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q5</CueId>
+      <Description>1.5 Back in the Common Room</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>6</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q6</CueId>
+      <Description>1.6 A Trio is Born</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>7</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q7</CueId>
+      <Description>1.7 Wayne & Cedric</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>8</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q8</CueId>
+      <Description>1.8 Sports!</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>9</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q9</CueId>
+      <Description>1.9 The End of the Year</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>10</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q10</CueId>
+      <Description>2.1 Year Two</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>11</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q11</CueId>
+      <Description>2.2 Dueling Club</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>12</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q12</CueId>
+      <Description>2.3 More Terror</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>13</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q13</CueId>
+      <Description>2.4 The Heir of Sankes</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>14</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q14</CueId>
+      <Description>2.5 A Great Hall Again</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>15</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q15</CueId>
+      <Description>2.6 Letters</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>16</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q16</CueId>
+      <Description>3.1 Year Three</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>17</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q17</CueId>
+      <Description>3.2 Electives</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>18</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q18</CueId>
+      <Description>3.3 A Great Hall Slumber Party</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>19</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q19</CueId>
+      <Description>3.4 Field Trip</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>20</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q20</CueId>
+      <Description>3.5 Letters Again</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>21</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q21</CueId>
+      <Description>4.1 Goblets. Fires</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>22</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q22</CueId>
+      <Description>4.2 Not Forgivable Curses</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>23</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q23</CueId>
+      <Description>4.3 Days Before First Task</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>24</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q24</CueId>
+      <Description>4.4 The First Task</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>25</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q25</CueId>
+      <Description>4.5 Dates for the Ball</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>26</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q26</CueId>
+      <Description>4.6 A Bathroom</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>27</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q27</CueId>
+      <Description>4.7 The Yule-Tide Ball</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>28</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q28</CueId>
+      <Description>4.8 The Second Task & the Subtleties of Lake Watching</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>29</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q29</CueId>
+      <Description>4.9 Wayne & Cedric</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>30</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q30</CueId>
+      <Description>4.10 The Third Task</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>31</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q31</CueId>
+      <Description>INTERMISSION TO ACT 2</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>32</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q32</CueId>
+      <Description>5.1 Letters Again</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>33</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q33</CueId>
+      <Description>5.2 Welcome Back</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>34</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q34</CueId>
+      <Description>5.3 Hopkins, Potter, & Emotions</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>35</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q35</CueId>
+      <Description>5.4 The Rest of  Year Five</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>36</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q36</CueId>
+      <Description>6.1 The Dark Lord</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>37</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q37</CueId>
+      <Description>6.2 Snogging 101</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>38</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q38</CueId>
+      <Description>6.3 Later, in the Hallway</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>39</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q39</CueId>
+      <Description>6.4 Perks of Love</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>40</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q40</CueId>
+      <Description>6.50 Mummy</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>41</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q41</CueId>
+      <Description>6.6 End of Year Six Where Nothing Major Happens</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>42</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q42</CueId>
+      <Description>7.1 A Funeral & Instant Messaging</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>43</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q43</CueId>
+      <Description>7.2 The End Begins</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>44</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q44</CueId>
+      <Description>7.3 A Great Hall Again</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>45</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q45</CueId>
+      <Description>7.4 The Battle</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>46</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q46</CueId>
+      <Description>7.5 A Very White Room</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>47</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q47</CueId>
+      <Description>8.1 Nineteen years Blah, Blah. An Epilogue.</Description>
+      <Sub>
+         <SubType>M</SubType>
+         <SubDescription>MIDI Send</SubDescription>
+         <DefSubDes>1</DefSubDes>
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>PC</MSMsgType>
+            <MSChannel>3</MSChannel>
+            <MSParam1>48</MSParam1>
+        </ControlMessage>
+         
+         
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>0</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>1</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>2</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>3</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>4</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>5</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>6</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>7</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>8</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>9</MSParam1>
+            <MSParam2>0</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>10</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>11</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>12</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+
+        <ControlMessage>
+            <CMLogicalDev>MIDI</CMLogicalDev>
+            <MSMsgType>CC</MSMsgType>
+            <MSChannel>2</MSChannel>
+            <MSParam1>13</MSParam1>
+            <MSParam2>127</MSParam2>
+        </ControlMessage>
+         
+      </Sub>
+    </Cue>
+    
+   <FileSaveInfo>
+      <_CueFile_>C:\output.scs11</_CueFile_>
+      <_Saved_>2021/11/02 12:24:53</_Saved_>
+      <_SCS_Version_>11.8.4.1</_SCS_Version_>
+      <_SCS_Build_>2021/04/01 10:19</_SCS_Build_>
+   </FileSaveInfo>
+</Production>

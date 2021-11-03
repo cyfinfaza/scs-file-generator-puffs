@@ -8,12 +8,12 @@ outputArray = []
 
 for x in range(2, len(micData[0])):
     # print("- scene:", micData[0][i])
-    scene = {"scene": f"{micData[0][x]} {micData[1][x]}".strip(), "actors": []}
+    cue = {"cue": f"{micData[0][x]} {micData[1][x]}".strip(), "actors": []}
     for y in range(2, len(micData)):
         if micData[y][x] != "":
             # print("  -", micData[j][1])
-            scene["actors"].append(micData[y][1])
-    outputArray.append(scene)
+            cue["actors"].append(micData[y][1])
+    outputArray.append(cue)
 
 # print(yaml.dump(outputArray, sort_keys=False))
 with open(input("Write to: ")+".yml", "w") as file:

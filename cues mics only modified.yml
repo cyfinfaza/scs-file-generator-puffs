@@ -1,4 +1,4 @@
-- scene: 1.1 Prologue
+- cue: 1.1 Prologue
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -9,7 +9,7 @@
   - Arturo Nieves / Jamie Good
   - Petra Deffenbaugh / Alex Adler
 
-- scene: 1.2 Welcome to the Puffs
+- cue: 1.2 Welcome to the Puffs
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -22,7 +22,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 1.3 Studies
+- cue: 1.3 Studies
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -36,7 +36,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 1.4 The Feast!
+- cue: 1.4 The Feast!
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -50,7 +50,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 1.5 Back in the Common Room
+- cue: 1.5 Back in the Common Room
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -63,7 +63,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 1.6 A Trio is Born
+- cue: 1.6 A Trio is Born
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -72,7 +72,7 @@
   - Josie Dennis
   - Alex Geoffroy
 
-- scene: 1.7 Wayne & Cedric
+- cue: 1.7 Wayne & Cedric
   actors:
   - Alex Prejean
   - Oscar Grob
@@ -81,7 +81,7 @@
   - Gabriel Subervi
   - Morgan Beatty
 
-- scene: 1.8 Sports!
+- cue: 1.8 Sports!
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -95,7 +95,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 1.9 The End of the Year
+- cue: 1.9 The End of the Year
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -109,7 +109,7 @@
   - McLain Ward
   - Shruti Ram
 
-- scene: 2.1 Year Two
+- cue: 2.1 Year Two
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -123,7 +123,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 2.2 Dueling Club
+- cue: 2.2 Dueling Club
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -137,7 +137,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 2.3 More Terror
+- cue: 2.3 More Terror
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -150,7 +150,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 2.4 The Heir of Sankes
+- cue: 2.4 The Heir of Sankes
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -160,7 +160,7 @@
   - Cami Perez
   - Gabriel Subervi
 
-- scene: 2.5 A Great Hall Again
+- cue: 2.5 A Great Hall Again
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -175,7 +175,7 @@
   - McLain Ward
   - Shruti Ram
 
-- scene: 2.6 Letters
+- cue: 2.6 Letters
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -184,7 +184,7 @@
   - Alex Geoffroy
   - Shruti Ram
 
-- scene: 3.1 Year Three
+- cue: 3.1 Year Three
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -194,7 +194,7 @@
   - Cami Perez
   - Morgan Beatty
 
-- scene: 3.2 Electives
+- cue: 3.2 Electives
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -207,7 +207,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 3.3 A Great Hall Slumber Party
+- cue: 3.3 A Great Hall Slumber Party
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -221,7 +221,7 @@
   - Shruti Ram
   - Petra Deffenbaugh / Alex Adler
 
-- scene: 3.4 Field Trip
+- cue: 3.4 Field Trip
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -234,50 +234,14 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 3.5 Letters Again
+- cue: 3.5 Letters Again
   actors:
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
 
-- scene: 4.1 Goblets. Fires
-  actors:
-  - Max Rodriguez
-  - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Oscar Grob
-  - Josie Dennis
-  - Alex Geoffroy
-  - Cami Perez
-  - Gabriel Subervi
-  - Morgan Beatty
-  - Shruti Ram
-
-- scene: 4.2 Not Forgivable Curses
-  actors:
-  - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Oscar Grob
-  - Josie Dennis
-  - Alex Geoffroy
-  - Cami Perez
-  - Gabriel Subervi
-  - Morgan Beatty
-  - Shruti Ram
-
-- scene: 4.3 Days Before First Task
-  actors:
-  - Alex Prejean
-  - Josie Dennis
-  - Alex Geoffroy
-  - Cami Perez
-  - Gabriel Subervi
-  - Morgan Beatty
-
-- scene: 4.4 The First Task
+- cue: 4.1 Goblets. Fires
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -291,29 +255,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 4.5 Dates for the Ball
-  actors:
-  - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Alex Geoffroy
-  - Cami Perez
-  - Gabriel Subervi
-
-- scene: 4.6 A Bathroom
-  actors:
-  - Max Rodriguez
-  - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Oscar Grob
-  - Josie Dennis
-  - Alex Geoffroy
-  - Cami Perez
-  - Gabriel Subervi
-  - Morgan Beatty
-
-- scene: 4.7 The Yule-Tide Ball
+- cue: 4.2 Not Forgivable Curses
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -326,26 +268,16 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 4.8 The Second Task & the Subtleties of Lake Watching
+- cue: 4.3 Days Before First Task
   actors:
-  - Max Rodriguez
   - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Oscar Grob
   - Josie Dennis
   - Alex Geoffroy
   - Cami Perez
-  - Morgan Beatty
-  - Shruti Ram
-
-- scene: 4.9 Wayne & Cedric
-  actors:
-  - Max Rodriguez
-  - Alex Prejean
   - Gabriel Subervi
+  - Morgan Beatty
 
-- scene: 4.10 The Third Task
+- cue: 4.4 The First Task
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -359,10 +291,102 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: INTERMISSION
+- cue: 4.5 Dates for the Ball
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Alex Geoffroy
+  - Cami Perez
+  - Gabriel Subervi
+
+- cue: 4.6 A Bathroom
+  actors:
+  - Max Rodriguez
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Gabriel Subervi
+  - Morgan Beatty
+
+- cue: 4.7 The Yule-Tide Ball
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Gabriel Subervi
+  - Morgan Beatty
+  - Shruti Ram
+
+- cue: 4.8 The Second Task & the Subtleties of Lake Watching
+  actors:
+  - Max Rodriguez
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Shruti Ram
+
+- cue: 4.9 Wayne & Cedric
+  actors:
+  - Max Rodriguez
+  - Alex Prejean
+  - Gabriel Subervi
+
+- cue: 4.10 The Third Task
+  actors:
+  - Max Rodriguez
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Gabriel Subervi
+  - Morgan Beatty
+  - Shruti Ram
+
+- cue: INTERMISSION TO ACT 2
   actors: []
 
-- scene: Act II
+- cue: 5.1 Letters Again
+  actors:
+  - Max Rodriguez
+  - Joshua Gordon
+  - Gabby Hairston
+
+- cue: 5.2 Welcome Back
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Shruti Ram
+
+- cue: 5.3 Hopkins, Potter, & Emotions
+  actors:
+  - Max Rodriguez
+  - Alex Prejean
+  - Shruti Ram
+
+- cue: 5.4 The Rest of  Year Five
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -375,44 +399,7 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 5.1 Letters Again
-  actors:
-  - Max Rodriguez
-  - Joshua Gordon
-  - Gabby Hairston
-
-- scene: 5.2 Welcome Back
-  actors:
-  - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Oscar Grob
-  - Josie Dennis
-  - Alex Geoffroy
-  - Cami Perez
-  - Morgan Beatty
-  - Shruti Ram
-
-- scene: 5.3 Hopkins, Potter, & Emotions
-  actors:
-  - Max Rodriguez
-  - Alex Prejean
-  - Shruti Ram
-
-- scene: 5.4 The Rest of  Year Five
-  actors:
-  - Max Rodriguez
-  - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Oscar Grob
-  - Josie Dennis
-  - Alex Geoffroy
-  - Cami Perez
-  - Morgan Beatty
-  - Shruti Ram
-
-- scene: 6.1 The Dark Lord
+- cue: 6.1 The Dark Lord
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -421,7 +408,7 @@
   - Gabriel Subervi
   - Arturo Nieves / Jamie Good
 
-- scene: 6.2 Snogging 101
+- cue: 6.2 Snogging 101
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -434,18 +421,18 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 6.3 Later, in the Hallway
+- cue: 6.3 Later, in the Hallway
   actors:
   - Gabby Hairston
 
-- scene: 6.4 Perks of Love
+- cue: 6.4 Perks of Love
   actors:
   - Max Rodriguez
   - Alex Prejean
   - Oscar Grob
   - Morgan Beatty
 
-- scene: 6.50 Mummy
+- cue: 6.50 Mummy
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -456,7 +443,7 @@
   - Morgan Beatty
   - Petra Deffenbaugh / Alex Adler
 
-- scene: 6.6 End of Year Six Where Nothing Major Happens
+- cue: 6.6 End of Year Six Where Nothing Major Happens
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -469,14 +456,14 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: 7.1 A Funeral & Instant Messaging
+- cue: 7.1 A Funeral & Instant Messaging
   actors:
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
 
-- scene: 7.2 The End Begins
+- cue: 7.2 The End Begins
   actors:
   - Alex Prejean
   - Gabby Hairston
@@ -488,7 +475,7 @@
   - Shruti Ram
   - Arturo Nieves / Jamie Good
 
-- scene: 7.3 A Great Hall Again
+- cue: 7.3 A Great Hall Again
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -502,7 +489,7 @@
   - Shruti Ram
   - Arturo Nieves / Jamie Good
 
-- scene: 7.4 The Battle
+- cue: 7.4 The Battle
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -516,14 +503,14 @@
   - Arturo Nieves / Jamie Good
   - Petra Deffenbaugh / Alex Adler
 
-- scene: 7.5 A Very White Room
+- cue: 7.5 A Very White Room
   actors:
   - Max Rodriguez
   - Alex Prejean
   - Gabriel Subervi
   - Shruti Ram
 
-- scene: 8.1 Nineteen years Blah, Blah. An Epilogue.
+- cue: 8.1 Nineteen years Blah, Blah. An Epilogue.
   actors:
   - Max Rodriguez
   - Alex Prejean
