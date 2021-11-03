@@ -22,7 +22,7 @@ for i, scene in enumerate(scenes):
             <MSParam1>{micNumbers[actor]}</MSParam1>
             <MSParam2>{"0" if actor in scene['actors'] else "127"}</MSParam2>
         </ControlMessage>
-         ''' for actor in micNumbers.keys())
+         ''' for actor in micNumbers.keys()) if scene['actors'] else ""
     output += f"""
     <Cue>
        <CueId>Q{i+1}</CueId>

@@ -1,10 +1,14 @@
-- scene: the first one
+- cue: the first one
   lightcue: 53
   actors:
   - cedric
   - leanne
 
-- scene: the second one
+- cue: 7.6 they lose a point and there is a green flash
+  soundeffect: Lose Point
+  lightcue: 501
+
+- cue: the second one
   actors:
   - cedric
   - leanne

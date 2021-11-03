@@ -8,8 +8,8 @@ outputArray = []
 
 for x in range(2, len(micData[0])):
     # print("- scene:", micData[0][i])
-    scene = {"scene": f"{micData[0][x]} {micData[1][x]}", "actors": []}
-    for y in range(1, len(micData)):
+    scene = {"scene": f"{micData[0][x]} {micData[1][x]}".strip(), "actors": []}
+    for y in range(2, len(micData)):
         if micData[y][x] != "":
             # print("  -", micData[j][1])
             scene["actors"].append(micData[y][1])

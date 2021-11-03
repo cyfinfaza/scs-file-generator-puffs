@@ -1,5 +1,6 @@
-- scene: 1.1 Prologue
+- scene: '1.1 Prologue '
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Oscar Grob
@@ -11,6 +12,7 @@
 
 - scene: 1.2 Welcome to the Puffs
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -24,6 +26,7 @@
 
 - scene: 1.3 Studies
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -38,6 +41,7 @@
 
 - scene: 1.4 The Feast!
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -52,6 +56,7 @@
 
 - scene: 1.5 Back in the Common Room
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -65,6 +70,7 @@
 
 - scene: 1.6 A Trio is Born
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -74,6 +80,7 @@
 
 - scene: 1.7 Wayne & Cedric
   actors:
+  - Cast Members
   - Alex Prejean
   - Oscar Grob
   - Josie Dennis
@@ -83,6 +90,7 @@
 
 - scene: 1.8 Sports!
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -97,6 +105,7 @@
 
 - scene: 1.9 The End of the Year
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -111,6 +120,7 @@
 
 - scene: 2.1 Year Two
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -125,6 +135,7 @@
 
 - scene: 2.2 Dueling Club
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -139,6 +150,7 @@
 
 - scene: 2.3 More Terror
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -152,6 +164,7 @@
 
 - scene: 2.4 The Heir of Sankes
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -162,6 +175,7 @@
 
 - scene: 2.5 A Great Hall Again
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -177,6 +191,7 @@
 
 - scene: 2.6 Letters
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -186,6 +201,7 @@
 
 - scene: 3.1 Year Three
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -196,6 +212,7 @@
 
 - scene: 3.2 Electives
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -209,6 +226,7 @@
 
 - scene: 3.3 A Great Hall Slumber Party
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -223,6 +241,7 @@
 
 - scene: 3.4 Field Trip
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -236,6 +255,7 @@
 
 - scene: 3.5 Letters Again
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -243,6 +263,7 @@
 
 - scene: 4.1 Goblets. Fires
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -257,6 +278,7 @@
 
 - scene: 4.2 Not Forgivable Curses
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -270,6 +292,7 @@
 
 - scene: 4.3 Days Before First Task
   actors:
+  - Cast Members
   - Alex Prejean
   - Josie Dennis
   - Alex Geoffroy
@@ -279,6 +302,7 @@
 
 - scene: 4.4 The First Task
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -293,6 +317,7 @@
 
 - scene: 4.5 Dates for the Ball
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -302,6 +327,7 @@
 
 - scene: 4.6 A Bathroom
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -315,6 +341,7 @@
 
 - scene: 4.7 The Yule-Tide Ball
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -328,6 +355,7 @@
 
 - scene: 4.8 The Second Task & the Subtleties of Lake Watching
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -341,12 +369,14 @@
 
 - scene: 4.9 Wayne & Cedric
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Gabriel Subervi
 
 - scene: 4.10 The Third Task
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -359,11 +389,13 @@
   - Morgan Beatty
   - Shruti Ram
 
-- scene: INTERMISSION
-  actors: []
-
-- scene: Act II
+- scene: ' INTERMISSION'
   actors:
+  - Cast Members
+
+- scene: ' Act II'
+  actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -377,12 +409,14 @@
 
 - scene: 5.1 Letters Again
   actors:
+  - Cast Members
   - Max Rodriguez
   - Joshua Gordon
   - Gabby Hairston
 
 - scene: 5.2 Welcome Back
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -395,12 +429,14 @@
 
 - scene: 5.3 Hopkins, Potter, & Emotions
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Shruti Ram
 
 - scene: 5.4 The Rest of  Year Five
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -414,6 +450,7 @@
 
 - scene: 6.1 The Dark Lord
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -423,6 +460,7 @@
 
 - scene: 6.2 Snogging 101
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -436,10 +474,12 @@
 
 - scene: 6.3 Later, in the Hallway
   actors:
+  - Cast Members
   - Gabby Hairston
 
 - scene: 6.4 Perks of Love
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Oscar Grob
@@ -447,6 +487,7 @@
 
 - scene: 6.50 Mummy
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -458,6 +499,7 @@
 
 - scene: 6.6 End of Year Six Where Nothing Major Happens
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -471,6 +513,7 @@
 
 - scene: 7.1 A Funeral & Instant Messaging
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
@@ -478,6 +521,7 @@
 
 - scene: 7.2 The End Begins
   actors:
+  - Cast Members
   - Alex Prejean
   - Gabby Hairston
   - Oscar Grob
@@ -490,6 +534,7 @@
 
 - scene: 7.3 A Great Hall Again
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Gabby Hairston
@@ -504,6 +549,7 @@
 
 - scene: 7.4 The Battle
   actors:
+  - Cast Members
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
@@ -518,6 +564,7 @@
 
 - scene: 7.5 A Very White Room
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Gabriel Subervi
@@ -525,6 +572,7 @@
 
 - scene: 8.1 Nineteen years Blah, Blah. An Epilogue.
   actors:
+  - Cast Members
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
