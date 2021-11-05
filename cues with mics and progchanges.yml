@@ -1,5 +1,5 @@
 - cue: 1.1 Prologue
-  progchange: 2
+  progchange: 1
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -11,7 +11,7 @@
   - Petra Deffenbaugh / Alex Adler
 
 - cue: 1.2 Welcome to the Puffs
-  progchange: 3
+  progchange: 2
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -22,9 +22,22 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 1.3 Studies
+  progchange: 3
+  actors:
+  - Max Rodriguez
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Gabriel Subervi
+  - Morgan Beatty
+
+- cue: 1.4 The Feast!
   progchange: 4
   actors:
   - Max Rodriguez
@@ -37,25 +50,9 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
-
-- cue: 1.4 The Feast!
-  progchange: 5
-  actors:
-  - Max Rodriguez
-  - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Oscar Grob
-  - Josie Dennis
-  - Alex Geoffroy
-  - Cami Perez
-  - Gabriel Subervi
-  - Morgan Beatty
-  - Shruti Ram
 
 - cue: 1.5 Back in the Common Room
-  progchange: 6
+  progchange: 5
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -66,10 +63,9 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 1.6 A Trio is Born
-  progchange: 7
+  progchange: 6
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -79,7 +75,7 @@
   - Alex Geoffroy
 
 - cue: 1.7 Wayne & Cedric
-  progchange: 8
+  progchange: 7
   actors:
   - Alex Prejean
   - Oscar Grob
@@ -89,7 +85,7 @@
   - Morgan Beatty
 
 - cue: 1.8 Sports!
-  progchange: 9
+  progchange: 8
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -101,10 +97,9 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 1.9 The End of the Year
-  progchange: 10
+  progchange: 9
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -116,9 +111,22 @@
   - Gabriel Subervi
   - Morgan Beatty
   - McLain Ward
-  - Shruti Ram
 
 - cue: 2.1 Year Two
+  progchange: 10
+  actors:
+  - Max Rodriguez
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Gabriel Subervi
+  - Morgan Beatty
+
+- cue: 2.2 Dueling Club
   progchange: 11
   actors:
   - Max Rodriguez
@@ -131,25 +139,9 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
-
-- cue: 2.2 Dueling Club
-  progchange: 12
-  actors:
-  - Max Rodriguez
-  - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Oscar Grob
-  - Josie Dennis
-  - Alex Geoffroy
-  - Cami Perez
-  - Gabriel Subervi
-  - Morgan Beatty
-  - Shruti Ram
 
 - cue: 2.3 More Terror
-  progchange: 13
+  progchange: 12
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -160,10 +152,9 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 2.4 The Heir of Sankes
-  progchange: 14
+  progchange: 13
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -174,7 +165,7 @@
   - Gabriel Subervi
 
 - cue: 2.5 A Great Hall Again
-  progchange: 15
+  progchange: 14
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -187,20 +178,18 @@
   - Gabriel Subervi
   - Morgan Beatty
   - McLain Ward
-  - Shruti Ram
 
 - cue: 2.6 Letters
-  progchange: 16
+  progchange: 15
   actors:
   - Max Rodriguez
   - Alex Prejean
   - Joshua Gordon
   - Gabby Hairston
   - Alex Geoffroy
-  - Shruti Ram
 
 - cue: 3.1 Year Three
-  progchange: 17
+  progchange: 16
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -211,7 +200,7 @@
   - Morgan Beatty
 
 - cue: 3.2 Electives
-  progchange: 18
+  progchange: 17
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -225,7 +214,7 @@
   - Shruti Ram
 
 - cue: 3.3 A Great Hall Slumber Party
-  progchange: 19
+  progchange: 18
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -240,7 +229,7 @@
   - Petra Deffenbaugh / Alex Adler
 
 - cue: 3.4 Field Trip
-  progchange: 20
+  progchange: 19
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -251,10 +240,9 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 3.5 Letters Again
-  progchange: 21
+  progchange: 20
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -262,7 +250,7 @@
   - Gabby Hairston
 
 - cue: 4.1 Goblets. Fires
-  progchange: 22
+  progchange: 21
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -277,7 +265,7 @@
   - Shruti Ram
 
 - cue: 4.2 Not Forgivable Curses
-  progchange: 23
+  progchange: 22
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -288,10 +276,9 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 4.3 Days Before First Task
-  progchange: 24
+  progchange: 23
   actors:
   - Alex Prejean
   - Josie Dennis
@@ -301,7 +288,7 @@
   - Morgan Beatty
 
 - cue: 4.4 The First Task
-  progchange: 25
+  progchange: 24
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -313,10 +300,9 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 4.5 Dates for the Ball
-  progchange: 26
+  progchange: 25
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -326,7 +312,7 @@
   - Gabriel Subervi
 
 - cue: 4.6 A Bathroom
-  progchange: 27
+  progchange: 26
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -340,7 +326,7 @@
   - Morgan Beatty
 
 - cue: 4.7 The Yule-Tide Ball
-  progchange: 28
+  progchange: 27
   actors:
   - Alex Prejean
   - Joshua Gordon
@@ -351,10 +337,9 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 4.8 The Second Task & the Subtleties of Lake Watching
-  progchange: 29
+  progchange: 28
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -365,17 +350,16 @@
   - Alex Geoffroy
   - Cami Perez
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 4.9 Wayne & Cedric
-  progchange: 30
+  progchange: 29
   actors:
   - Max Rodriguez
   - Alex Prejean
   - Gabriel Subervi
 
 - cue: 4.10 The Third Task
-  progchange: 31
+  progchange: 30
   actors:
   - Max Rodriguez
   - Alex Prejean
@@ -387,11 +371,23 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
 
-- cue: INTERMISSION TO ACT 2
-  progchange: 32
+- cue: INTERMISSION
+  progchange: 31
   actors: []
+
+- cue: Act II
+  progchange: 32
+  actors:
+  - Max Rodriguez
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
 
 - cue: 5.1 Letters Again
   progchange: 33
@@ -411,7 +407,6 @@
   - Alex Geoffroy
   - Cami Perez
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 5.3 Hopkins, Potter, & Emotions
   progchange: 35
@@ -432,7 +427,6 @@
   - Alex Geoffroy
   - Cami Perez
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 6.1 The Dark Lord
   progchange: 37
@@ -456,7 +450,6 @@
   - Alex Geoffroy
   - Cami Perez
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 6.3 Later, in the Hallway
   progchange: 39
@@ -495,7 +488,6 @@
   - Alex Geoffroy
   - Cami Perez
   - Morgan Beatty
-  - Shruti Ram
 
 - cue: 7.1 A Funeral & Instant Messaging
   progchange: 43
@@ -515,7 +507,6 @@
   - Alex Geoffroy
   - Cami Perez
   - Morgan Beatty
-  - Shruti Ram
   - Arturo Nieves / Jamie Good
 
 - cue: 7.3 A Great Hall Again
@@ -530,8 +521,6 @@
   - Cami Perez
   - Gabriel Subervi
   - Morgan Beatty
-  - Shruti Ram
-  - Arturo Nieves / Jamie Good
 
 - cue: 7.4 The Battle
   progchange: 46

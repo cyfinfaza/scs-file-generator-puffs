@@ -44,7 +44,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>2</MSParam1>
+                <MSParam1>1</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -194,7 +194,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>3</MSParam1>
+                <MSParam1>2</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -308,7 +308,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -344,7 +344,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>4</MSParam1>
+                <MSParam1>3</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -458,7 +458,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -494,7 +494,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>5</MSParam1>
+                <MSParam1>4</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -608,7 +608,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -644,7 +644,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>6</MSParam1>
+                <MSParam1>5</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -758,7 +758,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -794,7 +794,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>7</MSParam1>
+                <MSParam1>6</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -944,7 +944,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>8</MSParam1>
+                <MSParam1>7</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -1094,7 +1094,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>9</MSParam1>
+                <MSParam1>8</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -1208,7 +1208,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -1244,7 +1244,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>10</MSParam1>
+                <MSParam1>9</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -1358,7 +1358,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -1394,7 +1394,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>11</MSParam1>
+                <MSParam1>10</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -1508,7 +1508,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -1544,7 +1544,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>12</MSParam1>
+                <MSParam1>11</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -1658,7 +1658,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -1694,7 +1694,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>13</MSParam1>
+                <MSParam1>12</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -1808,7 +1808,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -1844,7 +1844,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>14</MSParam1>
+                <MSParam1>13</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -1994,6 +1994,156 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
+                <MSParam1>14</MSParam1>
+            </ControlMessage>
+        </Sub>
+            
+        
+        <Sub>
+            <SubType>M</SubType>
+            <SubDescription>Mute/Unmute Actors</SubDescription>
+            <DefSubDes>1</DefSubDes>
+            
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>0</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>1</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>2</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>3</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>4</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>5</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>6</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>7</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>8</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>9</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>10</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>11</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>12</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>13</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+        </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q15</CueId>
+      <Description>2.6 Letters</Description>
+        
+        <Sub>
+            <SubType>M</SubType>
+            <SubDescription>Change Scribble Strip</SubDescription>
+            <DefSubDes>1</DefSubDes>
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>PC</MSMsgType>
+                <MSChannel>3</MSChannel>
                 <MSParam1>15</MSParam1>
             </ControlMessage>
         </Sub>
@@ -2045,156 +2195,6 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>4</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>5</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>6</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>7</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>8</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>9</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>10</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>12</MSParam1>
-                <MSParam2>127</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>13</MSParam1>
-                <MSParam2>127</MSParam2>
-            </ControlMessage>
-            
-        </Sub>
-    </Cue>
-    
-    <Cue>
-       <CueId>Q15</CueId>
-      <Description>2.6 Letters</Description>
-        
-        <Sub>
-            <SubType>M</SubType>
-            <SubDescription>Change Scribble Strip</SubDescription>
-            <DefSubDes>1</DefSubDes>
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>PC</MSMsgType>
-                <MSChannel>3</MSChannel>
-                <MSParam1>16</MSParam1>
-            </ControlMessage>
-        </Sub>
-            
-        
-        <Sub>
-            <SubType>M</SubType>
-            <SubDescription>Mute/Unmute Actors</SubDescription>
-            <DefSubDes>1</DefSubDes>
-            
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>0</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>1</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>2</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>3</MSParam1>
-                <MSParam2>0</MSParam2>
-            </ControlMessage>
-            
-
-            <ControlMessage>
-                <CMLogicalDev>MIDI</CMLogicalDev>
-                <MSMsgType>CC</MSMsgType>
-                <MSChannel>2</MSChannel>
-                <MSParam1>4</MSParam1>
                 <MSParam2>127</MSParam2>
             </ControlMessage>
             
@@ -2258,7 +2258,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2294,7 +2294,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>17</MSParam1>
+                <MSParam1>16</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -2444,7 +2444,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>18</MSParam1>
+                <MSParam1>17</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -2594,7 +2594,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>19</MSParam1>
+                <MSParam1>18</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -2744,7 +2744,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>20</MSParam1>
+                <MSParam1>19</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -2858,7 +2858,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2894,7 +2894,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>21</MSParam1>
+                <MSParam1>20</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -3044,7 +3044,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>22</MSParam1>
+                <MSParam1>21</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -3194,7 +3194,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>23</MSParam1>
+                <MSParam1>22</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -3308,7 +3308,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -3344,7 +3344,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>24</MSParam1>
+                <MSParam1>23</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -3494,7 +3494,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>25</MSParam1>
+                <MSParam1>24</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -3608,7 +3608,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -3644,7 +3644,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>26</MSParam1>
+                <MSParam1>25</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -3794,7 +3794,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>27</MSParam1>
+                <MSParam1>26</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -3944,7 +3944,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>28</MSParam1>
+                <MSParam1>27</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -4058,7 +4058,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -4094,7 +4094,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>29</MSParam1>
+                <MSParam1>28</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -4208,7 +4208,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -4244,7 +4244,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>30</MSParam1>
+                <MSParam1>29</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -4394,7 +4394,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>31</MSParam1>
+                <MSParam1>30</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -4508,7 +4508,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -4534,7 +4534,7 @@
     
     <Cue>
        <CueId>Q31</CueId>
-      <Description>INTERMISSION TO ACT 2</Description>
+      <Description>INTERMISSION</Description>
         
         <Sub>
             <SubType>M</SubType>
@@ -4544,7 +4544,7 @@
                 <CMLogicalDev>MIDI</CMLogicalDev>
                 <MSMsgType>PC</MSMsgType>
                 <MSChannel>3</MSChannel>
-                <MSParam1>32</MSParam1>
+                <MSParam1>31</MSParam1>
             </ControlMessage>
         </Sub>
             
@@ -4684,6 +4684,156 @@
     
     <Cue>
        <CueId>Q32</CueId>
+      <Description>Act II</Description>
+        
+        <Sub>
+            <SubType>M</SubType>
+            <SubDescription>Change Scribble Strip</SubDescription>
+            <DefSubDes>1</DefSubDes>
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>PC</MSMsgType>
+                <MSChannel>3</MSChannel>
+                <MSParam1>32</MSParam1>
+            </ControlMessage>
+        </Sub>
+            
+        
+        <Sub>
+            <SubType>M</SubType>
+            <SubDescription>Mute/Unmute Actors</SubDescription>
+            <DefSubDes>1</DefSubDes>
+            
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>0</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>1</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>2</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>3</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>4</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>5</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>6</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>7</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>8</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>9</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>10</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>11</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>12</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>13</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+        </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q33</CueId>
       <Description>5.1 Letters Again</Description>
         
         <Sub>
@@ -4833,7 +4983,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q33</CueId>
+       <CueId>Q34</CueId>
       <Description>5.2 Welcome Back</Description>
         
         <Sub>
@@ -4958,7 +5108,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -4983,7 +5133,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q34</CueId>
+       <CueId>Q35</CueId>
       <Description>5.3 Hopkins, Potter, & Emotions</Description>
         
         <Sub>
@@ -5133,7 +5283,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q35</CueId>
+       <CueId>Q36</CueId>
       <Description>5.4 The Rest of  Year Five</Description>
         
         <Sub>
@@ -5258,7 +5408,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -5283,7 +5433,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q36</CueId>
+       <CueId>Q37</CueId>
       <Description>6.1 The Dark Lord</Description>
         
         <Sub>
@@ -5433,7 +5583,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q37</CueId>
+       <CueId>Q38</CueId>
       <Description>6.2 Snogging 101</Description>
         
         <Sub>
@@ -5558,7 +5708,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -5583,7 +5733,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q38</CueId>
+       <CueId>Q39</CueId>
       <Description>6.3 Later, in the Hallway</Description>
         
         <Sub>
@@ -5733,7 +5883,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q39</CueId>
+       <CueId>Q40</CueId>
       <Description>6.4 Perks of Love</Description>
         
         <Sub>
@@ -5883,7 +6033,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q40</CueId>
+       <CueId>Q41</CueId>
       <Description>6.50 Mummy</Description>
         
         <Sub>
@@ -6033,7 +6183,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q41</CueId>
+       <CueId>Q42</CueId>
       <Description>6.6 End of Year Six Where Nothing Major Happens</Description>
         
         <Sub>
@@ -6158,7 +6308,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -6183,7 +6333,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q42</CueId>
+       <CueId>Q43</CueId>
       <Description>7.1 A Funeral & Instant Messaging</Description>
         
         <Sub>
@@ -6333,7 +6483,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q43</CueId>
+       <CueId>Q44</CueId>
       <Description>7.2 The End Begins</Description>
         
         <Sub>
@@ -6458,7 +6608,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -6483,7 +6633,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q44</CueId>
+       <CueId>Q45</CueId>
       <Description>7.3 A Great Hall Again</Description>
         
         <Sub>
@@ -6608,7 +6758,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>11</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -6617,7 +6767,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>12</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -6633,7 +6783,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q45</CueId>
+       <CueId>Q46</CueId>
       <Description>7.4 The Battle</Description>
         
         <Sub>
@@ -6783,7 +6933,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q46</CueId>
+       <CueId>Q47</CueId>
       <Description>7.5 A Very White Room</Description>
         
         <Sub>
@@ -6933,7 +7083,7 @@
     </Cue>
     
     <Cue>
-       <CueId>Q47</CueId>
+       <CueId>Q48</CueId>
       <Description>8.1 Nineteen years Blah, Blah. An Epilogue.</Description>
         
         <Sub>
