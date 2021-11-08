@@ -14,7 +14,7 @@ for x in range(START_X, len(micData[0])):
     # print("- scene:", micData[0][i])
     cue = {"cue": f"{micData[0][x]} {micData[1][x]}".strip(), "actors": []}
     for y in range(START_Y, len(micData)):
-        if micData[y][x].strip() != "" or micData[y][x].strip()[:2] == "//":
+        if micData[y][x].strip() != "" and micData[y][x].strip()[:2] != "//":
             # print("  -", micData[j][1])
             cue["actors"].append(micData[y][1].strip())
     outputArray.append(cue)

@@ -83,19 +83,7 @@
 
 - cue: 1.8 Sports!
   progchange: 8
-  actors:
-  - Max Rodriguez
-  - Alex Prejean
-  - Joshua Gordon
-  - Gabby Hairston
-  - Oscar Grob
-  - Josie Dennis
-  - Alex Geoffroy
-  - Cami Perez
-  - Gabriel Subervi
-  - Morgan Beatty
-  - Rachel Vanek
-  - Morgan Connell
+  actors: []
 
 - cue: 1.9 The End of the Year
   progchange: 9

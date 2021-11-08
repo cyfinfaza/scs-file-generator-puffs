@@ -2153,7 +2153,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>0</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2162,7 +2162,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>1</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2171,7 +2171,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>2</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2180,7 +2180,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>3</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2189,7 +2189,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>4</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2198,7 +2198,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>5</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2207,7 +2207,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>6</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2216,7 +2216,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>7</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2225,7 +2225,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>8</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2234,7 +2234,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>9</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2270,7 +2270,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>14</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
 
@@ -2279,7 +2279,7 @@
                 <MSMsgType>CC</MSMsgType>
                 <MSChannel>2</MSChannel>
                 <MSParam1>15</MSParam1>
-                <MSParam2>0</MSParam2>
+                <MSParam2>127</MSParam2>
             </ControlMessage>
             
         </Sub>
