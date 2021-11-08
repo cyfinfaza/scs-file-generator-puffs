@@ -1,0 +1,874 @@
+- cue: Prologue
+  actors:
+  - Alex Prejean
+  - Max Rodriguez
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - McLain Ward
+  - Rachel Vanek 15
+  - Arturo Nieves
+  - Alex Adler
+
+- cue: Welcome to the Puffs
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Studies
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: The Feast!
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Back in the Common Room
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: A Trio is Born
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Josie Dennis
+  - Alex Geoffroy
+  - Rachel Vanek 15
+  - Jaidyn Riley
+
+- cue: Wayne & Cedric
+  actors:
+  - Alex Prejean
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Morgan Beatty
+
+- cue: Sports!
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: The End of the Year
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Year Two
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Dueling Club
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: More Terror
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: The Heir of Sankes
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Alex Geoffroy
+  - Cami Perez
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: A Great Hall Again
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Letters
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Alex Geoffroy
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Year Three
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+
+- cue: Electives
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: A Great Hall Slumber Party
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Field Trip
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Letters Again
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+
+- cue: Goblets. Fires
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Not Forgivable Curses
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Days Before First Task
+  actors:
+  - Alex Prejean
+  - Gabriel Subervi
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Rachel Vanek 15
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: The First Task
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Dates for the Ball
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Alex Geoffroy
+  - Cami Perez
+  - Rachel Vanek 15
+
+- cue: A Bathroom
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+
+- cue: The Yule-Tide Ball
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: The Second Task & the Subtleties of Lake Watching
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Wayne & Cedric
+  actors:
+  - Alex Prejean
+  - Max Rodriguez
+  - Gabriel Subervi
+
+- cue: The Third Task
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: INTERMISSION
+  actors: []
+
+- cue: Act II
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Letters Again
+  actors:
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+
+- cue: Welcome Back
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Hopkins, Potter, & Emotions
+  actors:
+  - Alex Prejean
+  - Max Rodriguez
+  - Shruti Ram
+  - Rachel Vanek 15
+
+- cue: The Rest of  Year Five
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: The Dark Lord
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Snogging 101
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: Later, in the Hallway
+  actors:
+  - Gabby Hairston
+
+- cue: Perks of Love
+  actors:
+  - Alex Prejean
+  - Max Rodriguez
+  - Oscar Grob
+  - Morgan Beatty
+
+- cue: Mummy
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: End of Year Six Where Nothing Major Happens
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: A Funeral & Instant Messaging
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+
+- cue: The End Begins
+  actors:
+  - Alex Prejean
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+
+- cue: A Great Hall Again
+  actors:
+  - Alex Prejean
+  - Gabby Hairston
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+
+- cue: The Battle
+  actors:
+  - Alex Prejean
+  - Joshua Gordon
+  - Gabby Hairston
+  - Oscar Grob
+  - Josie Dennis
+  - Alex Geoffroy
+  - Cami Perez
+  - Morgan Beatty
+  - Morgan Connell 12
+  - McLain Ward
+  - Shruti Ram
+  - Petra Deffenbaugh
+  - Jamie Good
+  - Rachel Vanek 15
+  - Jaidyn Riley
+  - Ethan Conklin
+  - Arturo Nieves
+  - Alex Adler
+  - Olivia Jangam
+  - Kacy King
+  - Sienna Lee
+  - ''
+
+- cue: A Very White Room
+  actors:
+  - Alex Prejean
+  - Max Rodriguez
+  - Gabriel Subervi
+  - Shruti Ram
+  - Rachel Vanek 15
+
+- cue: Nineteen years Blah, Blah. An Epilogue.
+  actors:
+  - Joshua Gordon
+  - Gabby Hairston
+  - Max Rodriguez
+  - Morgan Beatty

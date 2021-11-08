@@ -1,6 +1,7 @@
 import yaml
+from xml.sax.saxutils import escape
 
-with open("mic numbers.yml") as file:
+with open(input("Mic Numbers File: ")) as file:
     micNumbers = yaml.load(file, Loader=yaml.FullLoader)
 # print(micNumbers)
 
@@ -52,7 +53,7 @@ for i, cue in enumerate(scenes):
     output += f"""
     <Cue>
        <CueId>Q{i+1}</CueId>
-      <Description>{cue['cue']}</Description>
+      <Description>{escape(cue['cue'])}</Description>
         {programChangeSubcue}
         {controlChangeSubcue}
     </Cue>

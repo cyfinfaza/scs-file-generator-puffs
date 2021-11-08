@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Production>
+   <Head>
+      <Title>PUFFS but not the one we want</Title>
+      <ProdId>1FAB3E9F</ProdId>
+      <Version>11.8.4.1</Version>
+      <Build>20210401</Build>
+      <PRLogicalDev0>Front</PRLogicalDev0>
+      <PRNumChans0>2</PRNumChans0>
+      <PRAutoIncludeDev0>1</PRAutoIncludeDev0>
+      <DfltDBLevel0>-3.0</DfltDBLevel0>
+      <PreviewDevice>Front</PreviewDevice>
+      <PRVidAudLogicalDev0>Default</PRVidAudLogicalDev0>
+      <PRAutoIncludeVidAud0>1</PRAutoIncludeVidAud0>
+      <DfltVidAudDBLevel0>-3.0</DfltVidAudDBLevel0>
+      <PRCtrlSendLogicalDev0>Network</PRCtrlSendLogicalDev0>
+      <PRCtrlSendDevType0>TelnetOut</PRCtrlSendDevType0>
+      <PRCtrlSendLogicalDev1>MIDI</PRCtrlSendLogicalDev1>
+      <PRCtrlSendDevType1>MIDIOut</PRCtrlSendDevType1>
+      <PRCSDevice>
+         <PRCSLogicalDev>Network</PRCSLogicalDev>
+         <PRCSDevType>NetworkOut</PRCSDevType>
+         <PRCSNetworkProtocol>UDP</PRCSNetworkProtocol>
+         <PRCSNetworkRole>Client</PRCSNetworkRole>
+         <PRCSNetworkReplyMsgAddCR>1</PRCSNetworkReplyMsgAddCR>
+         <PRCSNetworkReplyMsgAddLF>0</PRCSNetworkReplyMsgAddLF>
+      </PRCSDevice>
+      <PRCSDevice>
+         <PRCSLogicalDev>MIDI</PRCSLogicalDev>
+         <PRCSDevType>MIDIOut</PRCSDevType>
+      </PRCSDevice>
+      <FocusPoint>NextManual</FocusPoint>
+   </Head>
+    
+    <Cue>
+       <CueId>Q2</CueId>
+      <Description>1.2 Welcome to the Puffs</Description>
+        
+        <Sub>
+            <SubType>M</SubType>
+            <SubDescription>Change Scribble Strip</SubDescription>
+            <DefSubDes>1</DefSubDes>
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>PC</MSMsgType>
+                <MSChannel>3</MSChannel>
+                <MSParam1>2</MSParam1>
+            </ControlMessage>
+        </Sub>
+            
+        
+        <Sub>
+            <SubType>M</SubType>
+            <SubDescription>Mute/Unmute Actors</SubDescription>
+            <DefSubDes>1</DefSubDes>
+            
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>0</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>1</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>2</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>3</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>4</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>5</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>6</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>7</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>8</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>9</MSParam1>
+                <MSParam2>0</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>10</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>11</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>12</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+
+            <ControlMessage>
+                <CMLogicalDev>MIDI</CMLogicalDev>
+                <MSMsgType>CC</MSMsgType>
+                <MSChannel>2</MSChannel>
+                <MSParam1>13</MSParam1>
+                <MSParam2>127</MSParam2>
+            </ControlMessage>
+            
+        </Sub>
+    </Cue>
+    
+    <Cue>
+       <CueId>Q3</CueId>
+      <Description>1.3 Studies</Description>
+        
+        <something>changed</something>
+    </Cue>
+
+   <FileSaveInfo>
+      <_CueFile_>C:\output.scs11</_CueFile_>
+      <_Saved_>2021/11/02 12:24:53</_Saved_>
+      <_SCS_Version_>11.8.4.1</_SCS_Version_>
+      <_SCS_Build_>2021/04/01 10:19</_SCS_Build_>
+   </FileSaveInfo>
+</Production>
